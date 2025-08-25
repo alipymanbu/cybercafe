@@ -52,21 +52,9 @@ nav ul li a:hover{
 
 
 /* Hero Section */
-.herosec{
-    background: url('assets\bg1.avif') no-repeat center center/cover;
-    color: rgb(0, 0, 0);
-    padding: 100px 20px;
-    text-align: center;
-}
 #hero {
-    /*background: url('assets\bg1.avif') no-repeat center center/cover;
-    color: rgb(0, 0, 0);
-    padding: 100px 20px;
-    text-align: center;*/
-    background-image: url('assets\bg2.avif'); /* Replace with your image path */
-
+    background-image: url('bg2.avif'); /* Replace with your image path */
     background-size: cover; /* Cover the entire section */
-
     background-position: center; /* Center the image */
 
     height: 65vh; /* Full viewport height */
